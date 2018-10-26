@@ -1,7 +1,7 @@
 # Notify-me
 এই প্রোগ্রাম টি আপনাকে আপনার প্রিয়জনদের জন্মদিন মনে করে দিবে । প্রতিবার যখন আপনি যখন আপনার কম্পিউটারে লগইন করবেন তার ১০ সেকেন্ড পরেই আপনি এই নোটিফিকেশন পাবেন । 
 
-![](![Before](https://github.com/menon92/ArrangeFiles/blob/master/before.png))
+![](https://github.com/menon92/notify-me/blob/master/image.png)
 
 নতুন কারো জন্মদিন অ্যাড করতে হলে আপনাকে `birthday` ফাইল টি এডিট করতে হবে । ফাইল ফরমেট এই রকম হতে হবে, 
 ```
